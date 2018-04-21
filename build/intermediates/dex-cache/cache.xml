@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Users\Vitor\.android\build-cache\c06fbb75860c1d51f9683dba9bb4e144f3c034fd\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="53762fb1daacc5e5fb9ce83c4d00365f71c10f1a">
+        <dex dex="C:\Users\Vitor\Documents\Projects\Solution 6\app\build\intermediates\pre-dexed\debug\classes_36b38ecb4f3e17579d25b3600766d37e8c9a87ff.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Vitor\.android\build-cache\8b064166acb059ccde223853ddfcc5c8f4c5b77e\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="48a969b476c5c4bd8cabfe295428ff222bc68b8e">
+        <dex dex="C:\Users\Vitor\Documents\Projects\Solution 6\app\build\intermediates\pre-dexed\debug\classes_36aea05b4e3e319096a78405cca3a304f726dd81.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Vitor\.android\build-cache\694eaeb4b51a6b5c406bce1af327acb3840ce5ab\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="138b5e3a5341bb37117b13f327de68f81f9f0669">
+        <dex dex="C:\Users\Vitor\Documents\Projects\Solution 6\app\build\intermediates\pre-dexed\debug\classes_1873e14941becbd34c413bc18ace111528e564d6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Vitor\.android\build-cache\43101da36948949f90a061c8946d9e0a86334bdb\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="df0c541b5406292d1c3d74fc8ea119bde14e77b0">
+        <dex dex="C:\Users\Vitor\Documents\Projects\Solution 6\app\build\intermediates\pre-dexed\debug\classes_6a34caf0c0172bed1e30e6940984612d832f0c59.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Vitor\.android\build-cache\9b68ac32da2e9555caf9fb408b5475f012764c45\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="f9f219b8a8acc35922ab06f4ff29769041481b4b">
+        <dex dex="C:\Users\Vitor\Documents\Projects\Solution 6\app\build\intermediates\pre-dexed\debug\classes_3652bc87bff2b63426853ccbd49777647e6419b9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Vitor\.android\build-cache\679506e98f51d89522804e46eda23a3cee74a103\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="b4a446c110c5a9f3a62907367d5eea4d4062c36a">
+        <dex dex="C:\Users\Vitor\Documents\Projects\Solution 6\app\build\intermediates\pre-dexed\debug\classes_cad5667ce35086f2469ea75dc5a12d18ccb78383.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Vitor\.gradle\caches\modules-2\files-2.1\com.android.support\support-annotations\26.0.2\8b68a849722b44f584e2d68c451c5e3844c10380\support-annotations-26.0.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="8b68a849722b44f584e2d68c451c5e3844c10380">
+        <dex dex="C:\Users\Vitor\Documents\Projects\Solution 6\app\build\intermediates\pre-dexed\debug\support-annotations-26.0.2_34761eda1578c4ac040822d2b5d7886df13dff49.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Vitor\.android\build-cache\80d98f5d855c3fbbb0e3d2dfe225a6a044b3ca91\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="C:\Users\Vitor\Documents\Projects\Solution 6\app\build\intermediates\pre-dexed\debug\classes_40652b56e1451a1cfae206f9d3951987af0e51be.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Vitor\.android\build-cache\d4f7c40373c17b4a96cbfc4e379b9cbd007cf94f\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="eef44a34be1eef845ecb4072e3692b434af05ad4">
+        <dex dex="C:\Users\Vitor\Documents\Projects\Solution 6\app\build\intermediates\pre-dexed\debug\classes_83f5835afc64bb8f9b8a11faef4ee6cea582ca1b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Vitor\.android\build-cache\2be413a868e874da4fa6c7ff9abe570df762f3cb\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="97cd0ab3ffad045a162fc1a413fe6abc58e199c4">
+        <dex dex="C:\Users\Vitor\Documents\Projects\Solution 6\app\build\intermediates\pre-dexed\debug\classes_4f807e57666eef2cc484771e881936ddc8fe1d38.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Vitor\.android\build-cache\60e5a890590533c0189b08b403e90ac9096eab18\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="4e38f488b591fa8ef9dce3e21752c92bde5f6f7c">
+        <dex dex="C:\Users\Vitor\Documents\Projects\Solution 6\app\build\intermediates\pre-dexed\debug\classes_03b4299bab0fe672bf77668b8bdebf809ec49710.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Vitor\.android\build-cache\31a465b79debf8f2571e6bca9005b1e7ced434e0\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="28cb30c89c8e501ded77e960407731df6c54b844">
+        <dex dex="C:\Users\Vitor\Documents\Projects\Solution 6\app\build\intermediates\pre-dexed\debug\classes_d33aadc683fc60098826c4828c85788a45fe947a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Vitor\.android\build-cache\ea33f9e417d2ff939d1d9ca33f4579dc673d721c\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="94d358351559620a2c3d2ba3ac04d03a59a61bb3">
+        <dex dex="C:\Users\Vitor\Documents\Projects\Solution 6\app\build\intermediates\pre-dexed\debug\classes_448e52716472ca980a3c13328d217b947d813d02.jar" />
+    </item>
+
+</items>

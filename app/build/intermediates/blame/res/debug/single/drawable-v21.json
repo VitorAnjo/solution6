@@ -1,0 +1,34 @@
+[
+    {
+        "merged": "C:\\Users\\Vitor\\Documents\\Projects\\Solution 6\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\avd_hide_password.xml",
+        "source": "C:\\Users\\Vitor\\.android\\build-cache\\c06fbb75860c1d51f9683dba9bb4e144f3c034fd\\output\\res\\drawable-v21\\avd_hide_password.xml"
+    },
+    {
+        "merged": "C:\\Users\\Vitor\\Documents\\Projects\\Solution 6\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\abc_edit_text_material.xml",
+        "source": "C:\\Users\\Vitor\\.android\\build-cache\\31a465b79debf8f2571e6bca9005b1e7ced434e0\\output\\res\\drawable-v21\\abc_edit_text_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Vitor\\Documents\\Projects\\Solution 6\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\notification_action_background.xml",
+        "source": "C:\\Users\\Vitor\\.android\\build-cache\\694eaeb4b51a6b5c406bce1af327acb3840ce5ab\\output\\res\\drawable-v21\\notification_action_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\Vitor\\Documents\\Projects\\Solution 6\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\avd_show_password.xml",
+        "source": "C:\\Users\\Vitor\\.android\\build-cache\\c06fbb75860c1d51f9683dba9bb4e144f3c034fd\\output\\res\\drawable-v21\\avd_show_password.xml"
+    },
+    {
+        "merged": "C:\\Users\\Vitor\\Documents\\Projects\\Solution 6\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\design_password_eye.xml",
+        "source": "C:\\Users\\Vitor\\.android\\build-cache\\c06fbb75860c1d51f9683dba9bb4e144f3c034fd\\output\\res\\drawable-v21\\design_password_eye.xml"
+    },
+    {
+        "merged": "C:\\Users\\Vitor\\Documents\\Projects\\Solution 6\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\design_bottom_navigation_item_background.xml",
+        "source": "C:\\Users\\Vitor\\.android\\build-cache\\c06fbb75860c1d51f9683dba9bb4e144f3c034fd\\output\\res\\drawable-v21\\design_bottom_navigation_item_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\Vitor\\Documents\\Projects\\Solution 6\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\abc_btn_colored_material.xml",
+        "source": "C:\\Users\\Vitor\\.android\\build-cache\\31a465b79debf8f2571e6bca9005b1e7ced434e0\\output\\res\\drawable-v21\\abc_btn_colored_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Vitor\\Documents\\Projects\\Solution 6\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\abc_action_bar_item_background_material.xml",
+        "source": "C:\\Users\\Vitor\\.android\\build-cache\\31a465b79debf8f2571e6bca9005b1e7ced434e0\\output\\res\\drawable-v21\\abc_action_bar_item_background_material.xml"
+    }
+]
